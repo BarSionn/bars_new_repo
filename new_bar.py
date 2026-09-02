@@ -8,5 +8,5 @@ print("cat")
 
 """
 name = "Name" 
-print(" Hello " , name ," How are you: " )
+print(" Hello " , name ," How are you " )
 """
